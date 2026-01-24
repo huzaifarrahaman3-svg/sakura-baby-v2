@@ -1,8 +1,8 @@
 [
-  { "key": "dbln", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
-  { "key": "datr", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
-  { "key": "sb", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
-  { "key": "c_user", "value": "61568669188579", "domain": ".facebook.com", "path": "/" },
-  { "key": "xs", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
-  { "key": "fr", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" }
+  { "name": "dbln", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
+  { "name": "datr", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
+  { "name": "sb", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
+  { "name": "c_user", "value": "61568669188579", "domain": ".facebook.com", "path": "/" },
+  { "name": "xs", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" },
+  { "name": "fr", "value": "PUT_YOUR_VALUE_HERE", "domain": ".facebook.com", "path": "/" }
 ]
