@@ -1,8 +1,8 @@
 {
   "commands": [
     {
-      "name": "exampleCommand",
-      "description": "This is an example command",
+      "name": "example",
+      "description": "Example command",
       "adminOnly": false,
       "aliases": []
     }
