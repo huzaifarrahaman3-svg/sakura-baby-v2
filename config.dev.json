@@ -4,75 +4,59 @@
     "password": "",
     "cookie": []
   },
-
   "antiInbox": false,
   "language": "en",
-
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-
   "adminBot": ["100052951819398"],
-
   "whiteListMode": {
     "enable": false,
     "whiteListIds": []
   },
-
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": []
   },
-
   "nickNameBot": "Sakura",
   "prefix": ".",
-
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true
   },
-
   "timeZone": "Asia/Dhaka",
-
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
     "port": 3001
   },
-
   "serverUptime": {
     "enable": true,
     "port": 3002,
     "socket": { "enable": false }
   },
-
   "autoRestart": {
     "time": 3600000
   },
-
   "autoUptime": {
     "enable": true,
     "timeInterval": 180,
     "url": ""
   },
-
   "autoLoadScripts": {
     "enable": true,
     "ignoreCmds": [],
     "ignoreEvents": []
   },
-
   "autoRefreshFbstate": false,
   "autoReloginWhenChangeAccount": false,
   "autoRestartWhenListenMqttError": false,
-
   "restartListenMqtt": {
     "enable": false
   },
-
   "hideNotiMessage": {
     "commandNotFound": false,
     "adminOnly": false,
@@ -82,7 +66,6 @@
     "needRoleToUseCmdOnReply": false,
     "needRoleToUseCmdOnReaction": false
   },
-
   "logEvents": {
     "disableAll": false,
     "message": true,
@@ -91,7 +74,6 @@
     "message_reply": true,
     "event": true
   },
-
   "optionsFca": {
     "forceLogin": false,
     "listenEvents": true,
