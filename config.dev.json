@@ -8,7 +8,8 @@
     "gmailAccount": {
       "email": "",
       "password": ""
-    }
+    },
+    "clientId": "PUT_YOUR_CLIENT_ID_HERE"
   },
   "antiInbox": false,
   "language": "en",
