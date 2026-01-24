@@ -1,8 +1,15 @@
 {
+  "facebookAc{
   "facebookAccount": {
     "email": "",
     "password": "",
     "cookie": []
+  },
+  "credentials": {
+    "gmailAccount": {
+      "email": "",
+      "password": ""
+    }
   },
   "antiInbox": false,
   "language": "en",
