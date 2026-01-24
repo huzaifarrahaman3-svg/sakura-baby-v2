@@ -9,7 +9,7 @@
       "email": "",
       "password": ""
     },
-    "clientId": "PUT_YOUR_CLIENT_ID_HERE"
+    "clientId": "YOUR_ACTUAL_CLIENT_ID_HERE"
   },
   "antiInbox": false,
   "language": "en",
