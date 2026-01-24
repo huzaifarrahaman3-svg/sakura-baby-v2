@@ -2,11 +2,7 @@
   "facebookAccount": {
     "email": "",
     "password": "",
-    "2FASecret": "",
-    "i_user": "61568669188579",
-    "proxy": null,
-    "userAgent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Mobile Safari/537.36",
-    "intervalGetNewCookie": null
+    "cookie": []
   },
 
   "antiInbox": false,
@@ -65,15 +61,17 @@
 
   "autoLoadScripts": {
     "enable": true,
-    "ignoreCmds": "",
-    "ignoreEvents": ""
+    "ignoreCmds": [],
+    "ignoreEvents": []
   },
 
   "autoRefreshFbstate": false,
   "autoReloginWhenChangeAccount": false,
   "autoRestartWhenListenMqttError": false,
 
-  "restartListenMqtt": { "enable": false },
+  "restartListenMqtt": {
+    "enable": false
+  },
 
   "hideNotiMessage": {
     "commandNotFound": false,
