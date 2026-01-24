@@ -2,7 +2,7 @@
   "commands": [
     {
       "name": "example",
-      "description": "Example command",
+      "description": "This is an example command",
       "adminOnly": false,
       "aliases": []
     }
