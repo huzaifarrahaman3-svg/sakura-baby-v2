@@ -18,10 +18,7 @@ const Prism = require("./func/prism.js");
 const { config } = global.GoatBot;
 const { gmailAccount } = config.credentials;
 const { clientId, clientSecret, refreshToken, apiKey: googleApiKey } = gmailAccount;
-if (!clientId) {
-log.err("CREDENTIALS", Please provide a valid clientId in file ${path.normalize(global.client.dirConfig)});
-process.exit();
-}
+
 const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
